@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/other-cardiomyopathy-amyloidosis---primary.py
+inputModule3:
+  class: File
+  path: python/other-cardiomyopathy-dystrophy---primary.py
+inputModule4:
+  class: File
+  path: python/other-cardiomyopathy---primary.py
+inputModule5:
+  class: File
+  path: python/cardiomyopathy---primary.py
+inputModule6:
+  class: File
+  path: python/primary-other-cardiomyopathy---primary.py
+inputModule7:
+  class: File
+  path: python/familial-other-cardiomyopathy---primary.py
+inputModule8:
+  class: File
+  path: python/nutritional-other-cardiomyopathy---primary.py
+inputModule9:
+  class: File
+  path: python/other-cardiomyopathy-heart---primary.py
+inputModule10:
+  class: File
+  path: python/tachyother-cardiomyopathy-cardiomyopathy---primary.py
+inputModule11:
+  class: File
+  path: python/other-cardiomyopathy-cardiomyopathies---primary.py
+inputModule12:
+  class: File
+  path: python/metabolic-other-cardiomyopathy---primary.py
+inputModule13:
+  class: File
+  path: python/other-cardiomyopathy---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
